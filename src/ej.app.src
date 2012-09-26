@@ -1,0 +1,12 @@
+{application, ej,
+ [
+  {description, ""},
+  {vsn, git},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {mod, { ej, []}},
+  {env, []}
+ ]}.

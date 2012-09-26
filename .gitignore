@@ -1,0 +1,7 @@
+.eunit
+*.beam
+doc/*.html
+doc/*.css
+doc/erlang.png
+doc/edoc-info
+ebin
